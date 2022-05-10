@@ -1,0 +1,81 @@
+body {
+  font-family: 'Oleo Script Swash Caps', cursive;
+  color: #021d32;
+}
+
+/* Hero Section */
+
+#Hero-Section {
+  background-image: url("../img/bg-hero.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+/* Mis trabajos */
+
+#Mis-trabajos .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Contacto */
+
+#Contacto form label {
+  font-weight: 700;
+  color: #373a3c;
+}
+
+@media (max-width: 768px) {
+  #Contacto form label {
+    font-weight: 400;
+  }
+
+  .navbar-brand{
+    width: 100px;
+  }
+}
+.bg-cal{
+  background-image: url(/assets/img/82032cce1d5dc4c8a17527b2a3ea676b.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+.btn{
+  background-color: #012e46;
+  border-color: #021d32;
+  color: aliceblue;
+}
+.bg-turq{
+  background-image: url(/assets/img/glitter-btn.jpeg);
+}
+.nav-link{
+  color: aliceblue !important;
+}
+
