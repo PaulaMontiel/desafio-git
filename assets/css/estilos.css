@@ -38,7 +38,7 @@ body {
   }
 }
 .bg-cal{
-  background-image: url(/assets/img/82032cce1d5dc4c8a17527b2a3ea676b.jpeg);
+  background-image: url(assets/img/82032cce1d5dc4c8a17527b2a3ea676b.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -49,7 +49,7 @@ body {
   color: aliceblue;
 }
 .bg-turq{
-  background-image: url(/assets/img/glitter-btn.jpeg);
+  background-image: url(assets/img/glitter-btn.jpeg);
 }
 .nav-link{
   color: aliceblue !important;
